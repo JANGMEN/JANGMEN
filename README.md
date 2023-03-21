@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JANGMEN's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PKNU%20JAVA%20Class%20Student&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JANGMEN's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PKNU%20JAVA%20Class%20Student&descAlignY=60&descAlign=70)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!+My+Github!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!+My+Github!;&font=Fira%20Code&center=true&width=350&height=50&duration=4000&pause=1000">
 </p>
 
 
